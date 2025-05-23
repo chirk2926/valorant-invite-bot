@@ -1,0 +1,2 @@
+# valorant-invite-bot
+VALORANTの募集をBOTで行うやつ　今までは誰が参加してるのかわかりにくかったのでキューに表示するように可視化
